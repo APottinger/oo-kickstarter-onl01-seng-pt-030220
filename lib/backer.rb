@@ -6,4 +6,6 @@ class Backer
     @backed_projects = []
     @name = name
   end 
+  
+  def bac
 end
