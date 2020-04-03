@@ -1,5 +1,5 @@
 class Backer 
-  attr_accessor :backed_projects, :$FILENAME
+  attr_accessor :name 
   attr_reader :backed_projects
   
   def initialize
