@@ -4,6 +4,7 @@ class Project
   
   def initialize(p_name)
     @backers = []
+    @p_name = name 
   end 
   
 end 
